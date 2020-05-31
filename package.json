@@ -1,0 +1,18 @@
+{
+  "name": "js-cookie-jar",
+  "version": "1.0.0",
+  "description": "JS Cookie library.",
+  "main": "Cookie.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "js",
+    "cookie"
+  ],
+  "author": "Ford Bedia",
+  "license": "ISC"
+}
